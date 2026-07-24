@@ -52,6 +52,13 @@ Key points:
   (`VMIN_PCT` / `VMAX_PCT`), so hot or saturated pixels no longer force manual
   `vmax` tuning.
 
+example image:
+
+
+<img width="800" height="400" alt="Screenshot 2026-07-24 at 12 40 36" src="https://github.com/user-attachments/assets/36535769-21d7-4983-a392-b481f3e9c134" />
+
+  
+
 ### `ThorFP_ROI_reextraction.py`
 
 Interactive tool to redraw circular ROIs and re-extract time courses (mean
@@ -149,6 +156,13 @@ pip install numpy pandas matplotlib
 python ThorFP_ROI_QA.py
 python ThorFP_ROI_reextraction.py
 ```
+
+example image:
+
+
+<img width="800" height="400" alt="Screenshot 2026-07-24 at 12 32 41" src="https://github.com/user-attachments/assets/48956b4e-6bf1-453e-92f4-9c3af8ca3d22" />
+
+
 
 ### Interactive backend (important for re-extraction)
 
